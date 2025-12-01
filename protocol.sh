@@ -28,7 +28,7 @@
 #   A -> B: {#s}#K
 #
 
-WEBSERVICE_TO_HACK="http://10.0.0.5/simpleke/VIAgKz9H/index.php"
+WEBSERVICE_TO_HACK="http://10.0.0.5/simplekeiv/5QnGxtE3/index.php"
 
 # ---------------------------------------------------------------------
 
